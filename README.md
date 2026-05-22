@@ -10,8 +10,8 @@ This project combines finance, automation, artificial intelligence, and voice te
 ## Author
 
 **Kashifuddin Chishti**
-
-Developer of StockPulse AI – a Python-based intelligent stock market monitoring and voice assistant system.
+Role : Developer  
+Project : StocSense AI – a Python-based intelligent stock market monitoring and voice assistant system.
 
 ## Features
 
