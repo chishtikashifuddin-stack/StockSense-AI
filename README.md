@@ -10,6 +10,7 @@ This project combines finance, automation, artificial intelligence, and voice te
 ## Author
 
 **Kashifuddin Chishti**
+
 Role : Developer  
 Project : StocSense AI – a Python-based intelligent stock market monitoring and voice assistant system.
 
