@@ -1,4 +1,4 @@
-# StockPulse AI
+# StockSense AI
 
 ## Project Overview
 
@@ -7,6 +7,11 @@ StockPulse AI is a Python-based intelligent stock market monitoring system that 
 This project combines finance, automation, artificial intelligence, and voice technology into a single intelligent assistant designed for traders, investors, and stock market analysis.
 
 ---
+## Author
+
+**Kashifuddin Chishti**
+
+Developer of StockPulse AI – a Python-based intelligent stock market monitoring and voice assistant system.
 
 ## Features
 
